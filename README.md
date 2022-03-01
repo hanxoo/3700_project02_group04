@@ -3,6 +3,6 @@ Xuan Han
 Jiahui Wang  
 Honglei Xin  
 Tingyu Tang  
-Jingkun Cheng
-Qijin Li    
+Jingkun Cheng  
+Qijin Li  
 Jiani Li  
